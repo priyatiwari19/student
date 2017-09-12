@@ -1,0 +1,20 @@
+Python 2.7.1 (r271:86832, Nov 27 2010, 18:30:46) [MSC v.1500 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> print("hello world")
+hello world
+>>> print("hello python")
+hello python
+>>> str=("hello world")
+>>> print str
+hello world
+>>> print str[0]
+h
+>>> print str[2:5]
+llo
+>>> print str[2:]
+llo world
+>>> print str *2
+hello worldhello world
+>>> print str+test"
+SyntaxError: EOL while scanning string literal
+>>> 
